@@ -19,7 +19,7 @@ cd rust-book-exercises/src/guessing_game
 Run the game:
 
 ```sh
-crate run
+cargo run
 ```
 
 ## Usage
