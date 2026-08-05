@@ -13,7 +13,7 @@ git clone https://github.com/herberthleao/rust-book-exercises.git
 Go to this crate's directory:
 
 ```sh
-cd rust-book-exercises/src/guessing_game
+cd rust-book-exercises/crates/guessing_game
 ```
 
 Run the game:
@@ -24,6 +24,6 @@ cargo run
 
 ## Usage
 
-The idea of ​​the game is very simple: guess the secret number. The game will ask for a suggestion of what the secret number is and, once entered, will give feedback informing you whether the number entered is greater or less than the number to be discovered, or whether it was correct. This must be repeated until the number is discovered, which is when the game ends.
+The idea of the game is very simple: guess the secret number. The game will ask for a suggestion of what the secret number is and, once entered, will give feedback informing you whether the number entered is greater or less than the number to be discovered, or whether it was correct. This must be repeated until the number is discovered, which is when the game ends.
 
 Good luck!
