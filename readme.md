@@ -5,6 +5,7 @@ Here are the custom implementations for the exercises found in the official book
 ## Crates
 
 - [Guessing Game](crates/guessing_game)
+- [Control Flow](creates/control_flow)
 
 ## License
 
